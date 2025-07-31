@@ -1,0 +1,30 @@
+git config --global user.name raianeneubern
+git config --global user.email raianeneubern@gmail.com
+
+ao baixar o projeto do Github
+
+Entrar na pasta
+cd StickerSmash
+
+dar
+npm i
+
+installar a instenção es7 +React
+ 
+Criar o projeto 1 vez
+npx create-expo-app@latest StickerSmash
+
+rodar:
+npx  expo start --localhost --android
+npx expo start --web
+
+npm run reset-project
+
+npx expo install-image
+
+
+npx expo install expo-image-picker
+
+npx expo install react-native-view-shot expo-media-library
+
+npm install dom-to-image
