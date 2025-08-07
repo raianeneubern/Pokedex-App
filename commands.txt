@@ -4,7 +4,7 @@ git config --global user.email raianeneubern@gmail.com
 ao baixar o projeto do Github
 
 Entrar na pasta
-cd StickerSmash
+cd pokedex
 
 dar
 npm i
