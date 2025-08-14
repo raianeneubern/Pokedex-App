@@ -14,7 +14,7 @@ export default function PokemonDetail() {
     return (
         <View style={styles.container}>
             <Header
-                title={`#${pokemon.Numero} - ${pokemon.Name}`}
+                title={`#${pokemon.Numero} - ${pokemon.Nome}`}
                 back={true}
             />
             <View style={[styles.card, { backgroundColor: tipos[0].Cor }]}>
